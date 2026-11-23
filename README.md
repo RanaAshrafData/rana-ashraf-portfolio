@@ -9,7 +9,7 @@ Sociology graduate from Ain Shams University (2024) with a Data Analysis Diploma
 
 ## Portfolio
 
-https://files.instinct.com/1fsxb060hrqv-rana-ashraf-data-analyst
+https://ranaashrafdata.github.io/rana-ashraf-portfolio/
 
 ## LinkedIn
 
